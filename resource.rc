@@ -1,0 +1,5 @@
+#define WIN32_LEAN_AND_MEAN
+#include <windows.h>
+
+1 ICON "ldstore.ico"
+1 RT_MANIFEST "manifest.xml"
